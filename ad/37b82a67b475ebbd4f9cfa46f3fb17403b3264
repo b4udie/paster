@@ -1,0 +1,23 @@
+index.html
+  s_d61ebc6e55d9c8::t_ae673641f37ac5 1-19
+privacy.html
+  s_d61ebc6e55d9c8::t_c6f1c161b8a66a 1-14
+style.css
+  s_d61ebc6e55d9c8::t_534ebb675ca2bd 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ad37b82a67b475ebbd4f9cfa46f3fb17403b3264",
+  "prompts": {},
+  "sessions": {
+    "s_d61ebc6e55d9c8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1585f50b-1b44-42d6-9764-a4b0c76ffbe1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Valentyn Bratkevych <valentyn.bratkevych@gen.tech>"
+    }
+  }
+}
